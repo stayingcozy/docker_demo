@@ -47,4 +47,4 @@ Make a 'docker-compose.yml' file in the root of our project.
 Then to run
 ```
 docker-compose up 
-``
+```
