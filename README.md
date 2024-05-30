@@ -1,5 +1,5 @@
-<p align="right">
-    <img src="assets/Blue Whale Studio Cartoon Logo.png" height=400 width=400>
+<p align="center">
+    <img src="assets/Blue Whale Studio Cartoon Logo.png" height=300 width=300>
 </p>
 
 # Build Image from Dockerfile
