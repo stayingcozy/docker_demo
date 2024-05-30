@@ -1,3 +1,7 @@
+<p align="central">
+    <img src="assets/Blue Whale Studio Cartoon Logo.png" height=200 width=200>
+</p>
+
 # Build Image from Dockerfile
 
 code based on Fireship "Learn Docker in 7 Easy Steps - Full Beginner's Tutorial" video
